@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sammie014
 - 👀 I’m interested in Data 
 - 🌱 I’m currently learning Data Analysis and Machine Learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on machine learning and AI as well as data science projects on python
 - 📫 How to reach me [email](adetayosamuel014@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/samuel-adetayo)
 
